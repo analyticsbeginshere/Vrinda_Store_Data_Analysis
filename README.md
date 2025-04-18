@@ -15,7 +15,7 @@ Vrinda Store wanted to create an annual sales report for the year 2022 to unders
 
 ## **Files Included**
 Vrinda_Sales_Report_2022.xlsx  
-(https://github.com/analyticsbeginshere/Vrinda_Store_Data_Analysis/blob/main/Vrinda Store Data Analysis.Xlsx)
+(https://github.com/analyticsbeginshere/Vrinda_Store_Data_Analysis/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx)
 
 ## **Connect with Me**
 Email: heet68892@gmail.com
